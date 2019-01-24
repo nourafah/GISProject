@@ -1,0 +1,21 @@
+,Cities,latitude ,longitude ,population,states,universities,ports,rivers,airports,c_code,student_n,tourism;Cities;latitude;longitude;population;states;universities;ports;rivers;rivers
+"Australia,Sydney inner,-33.8688197,151.2092955,""4,391,674"", New South Wales,6,yes,20,Local,116,406034,30%";Sydney inner;-33.8688197;151.2092955;4391674;;;;;
+"Australia,Melbourne,-37.813611,144.963056,""3,999,982"", Victoria,7,yes,18,international,206,344658,20%";Melbourne;-37.813611;144.963056;3999982;;;;;
+"Australia,Brisbane,-27.4697707,153.0251235,""2,065,996"", Queensland,2,yes,1,Local,305,230735,8%";Brisbane;-27.4697707;153.0251235;2065996;;;;;
+"Australia,Perth - Inner,-31.9505269,115.8604572,""1,728,867"", Western Australia,5,no,1,Local,503,138107,10%";Perth - Inner;-31.9505269;115.8604572;1728867;;;;;
+"Australia,Adelaide - Central and Hills,-34.9284989,138.6007456,""1,262,940"", South Australia,4,yes,1,Local,401,90201,11%";Adelaide - Central and Hills;-34.9284989;138.6007456;1262940;;;;;
+"Australia,Gold Coast,-28.016667,153.4,""557,822"", Queensland/ New South Wales,0,no,10,Local,309,34600,11%";Gold Coast;-28.016667;153.4;557822;;;;;
+"Australia,Newcastle–Maitland,-32.876202,151.7136083,""398,770"", New South Wales,1,yes,2,Local,111,5466,0%";Newcastle–Maitland;-32.876202;151.7136083;398770;New South Wales;1;yes;2;
+"Australia,Australian Capital Territory,-35.3501527,149.2096995,""391,645"", Australian Capital Territory/ New South Wales,1,no,0,Local,801,37380,0%";Australian Capital Territory;-35.3501527;149.2096995;391645;Australian Capital Territory/ New South Wales;1;no;0;
+"Australia,Sunshine Coast,-26.65,153.066667,""270,770"", Queensland,1,no,0,Local,316,4996,0%";Sunshine Coast;-26.65;153.066667;270770;Queensland;1;no;0;
+"Australia,Central Coast,-34.4278121,150.8930607,""268,944"", New South Wales,1,yes,6,Local,102,5667,0";Central Coast;-34.4278121;150.8930607;268944;New South Wales;1;yes;6;
+"Australia,Hobart,-42.8821377,147.3271949,""211,656"", Tasmania,0,yes,0,international,601,26908,21%";Hobart;-42.8821377;147.3271949;211656;Tasmania;0;yes;0;
+"Australia,Geelong,-38.1499181,144.3617186,""173,454"", Victoria,0,yes,0,Local,203,6900,0%";Geelong;-38.1499181;144.3617186;173454;Victoria;0;yes;0;
+"Australia,Townsville,-19.2589635,146.8169483,""162,292"", Queensland,0,no,1,Local,318,787789,5%";Townsville;-19.2589635;146.8169483;162292;Queensland;0;no;1;
+"Australia,Cairns,-16.9185514,145.7780548,""133,911"", Queensland,0,no,2,Local,306,9899,0";Cairns;-16.9185514;145.7780548;133911;Queensland;0;no;2;
+"Australia,Darwin,-12.4634403,130.8456418,""120,586"", Northern Territory,1,no,0,international,301,8799,0%";Darwin;-12.4634403;130.8456418;120586;Northern Territory;1;no;0;
+"Australia,Toowoomba,-27.5598212,151.9506696,""105,984"", Queensland,0,no,0,Local,317,5710,0%";Toowoomba;-27.5598212;151.9506696;;;;;;
+"Australia,Ballarat,-37.5621587,143.8502556,""91,801"", Victoria,0,no,1,Local,201,57007,0%";Ballarat;-37.5621587;143.8502556;;;;;;
+"Australia,Bendigo,-36.7570157,144.2793906,""86,079"", Victoria,0,no,0,Local,202,3669,0%";Bendigo;-36.7570157;144.2793906;;;;;;
+"Australia,Launceston and North East,-41.4332215,147.1440875,""82,220"", Tasmania,0,yes,1,Local,602,26620,0%";Launceston and North East;-41.4332215;147.1440875;;;;;;
+"Australia,Mackay,-21.1424956,149.1821469,""77,293"",Queensland,0,yes,1,Local,312,4479,0%";Mackay;-21.1424956;149.1821469;;;;;;
